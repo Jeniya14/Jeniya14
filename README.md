@@ -38,14 +38,4 @@
   <img alt="adobexd" src="https://img.shields.io/badge/adobexd-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge" />
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jeniya14&theme=tokyonight" alt="GitHub Streak" /></a>
-  <img  src="https://github-readme-stats.vercel.app/api?username=jeniya14&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" />
-  
-</div>
-
-<br/><br/>
 <hr/>
