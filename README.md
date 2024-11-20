@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mern stack**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **Javascript,React,Mern and Php**
 
