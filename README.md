@@ -4,11 +4,11 @@
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeniya14&label=Profile%20views&color=0e75b6&style=flat" alt="jeniya14" /> </p>
 
-- 🔭 I’m currently working on **Mern stack**
+- 🔭 I’m currently working on **Mern**
 
 - 🌱 I’m currently learning **Three.js**
 
-- 💬 Ask me about **Javascript,React,Mern and Php**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **jeniyaselvam1432@gmail.com**
 
