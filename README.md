@@ -4,7 +4,6 @@
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeniya14&label=Profile%20views&color=0e75b6&style=flat" alt="jeniya14" /> </p>
 
-- 🔭 I’m currently working on **Mern**
 
 - 🌱 I’m currently learning **Three.js**
 
@@ -36,6 +35,8 @@
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="adobexd" src="https://img.shields.io/badge/adobexd-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
 </p>
 
 <hr/>
