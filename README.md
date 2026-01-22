@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend development**
 
-- 📫 How to reach me **jeniyaselvam1432@gmail.com**
+- 📫 My portfolio **https://jeniya-portfolio.vercel.app/**
 
 - ⚡ Fun fact : **I find comfort and joy in designing while listening to music.**
   
